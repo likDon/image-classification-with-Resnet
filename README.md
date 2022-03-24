@@ -1,8 +1,8 @@
 # image-classification-with-Resnet
 You can modify Data Augmentation method, Net Architecture and Training method.
-- ** Data Augmentation **: We offer 3 methods: Simple Augmentation(including flip and clip), Cutmix and Cutout 
-- **  Net Architecture **: Set C1, layer number and block number of each layer.
-- **  Training method **: Set batch size, epoch number, optimizer, learning rate and lr_scheduler
+- **Data Augmentation**: We offer 3 methods: Simple Augmentation(including flip and clip), Cutmix and Cutout 
+- **Net Architecture**: Set C1, layer number and block number of each layer.
+- **Training method**: Set batch size, epoch number, optimizer, learning rate and lr_scheduler
 
 ```
 BATCH_SIZE = 128
