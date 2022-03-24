@@ -15,4 +15,4 @@ Data_Aug = 'cutmix' # 'cutmix', 'cutout','simple'
 Optim_type = 'momentum' #'SGD', 'momentum', 'Adam'
 Scheduler_type = 'MultiStep' #'None', 'CLR', 'MultiStep'
 ```
-Using Resnet34 and CutMix(settings are shown above), our final accuracy is 91.8%.(Model size is 4.9M)
+Using Resnet34 and CutMix(settings are shown above), our final accuracy on CIFAR10 is **91.8%**.(Model size is 4.9M)
